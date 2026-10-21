@@ -18,6 +18,16 @@ A **diffusion model** is used to **generate enhanced emotional speech data**, ad
 
 ---
 
+### 🧑‍💼 [Mosaic Hire — AI-Powered CV Analyzer](https://github.com/ranimbenali/HR-Project)
+**Generative AI | LLM | RAG | OCR**
+
+Analyzes CVs (PDF, DOCX, images) and generates a **personalized career report**: strengths, weaknesses, **recommended certifications and courses with official links**, and a tailored action plan.
+Combines **OCR text extraction**, a **web RAG** layer (SerpAPI) and **LLaMA 3.3 70B via Groq**.
+
+> 🔧 *Tech stack:* Python, FastAPI, Groq (LLaMA 3.3), SerpAPI, Tesseract OCR, React, Vite
+
+---
+
 ### 🛠️ [GMAO — AI-Powered Maintenance Management](https://github.com/ranimbenali/GMAO)
 **Full-Stack | NestJS | Angular | CI/CD**
 
@@ -48,7 +58,7 @@ A 2D game built in **C with SDL**: scrolling backgrounds, collision detection, m
 
 ## 🎓 About Me
 
-- 🎓 **Graduated** in **Data Science** from **[ESPRIT](https://esprit.tn)** — *2026*
+- 🎓 **Graduated** in **Data Science** from **[ESPRIT](https://esprit.tn)** — *October 2026*
 - 🧠 Interested in **Deep Learning**, **Generative AI** and **MLOps**
 - 🏅 **NVIDIA** certified — *Anomaly Detection*
 - 💬 Fluent in **Arabic**, **French** and **English**
@@ -60,9 +70,10 @@ A 2D game built in **C with SDL**: scrolling backgrounds, collision detection, m
 | Category | Tools & Frameworks |
 |:--|:--|
 | **AI / ML** | PyTorch, TensorFlow, Scikit-learn, MLflow |
+| **Generative AI** | LLMs (LLaMA via Groq, OpenAI API), RAG, Diffusion Models |
 | **Data Science** | Pandas, NumPy, Matplotlib, Librosa |
-| **Backend** | NestJS, FastAPI, REST APIs, JWT |
-| **Frontend** | Angular, Angular Material |
+| **Backend** | NestJS, FastAPI, Flask, REST APIs, JWT |
+| **Frontend** | Angular, React, Angular Material |
 | **Databases** | MongoDB, MySQL |
 | **DevOps** | Jenkins, Git, Makefile |
 | **Languages** | Python, TypeScript, JavaScript, C, SQL |
