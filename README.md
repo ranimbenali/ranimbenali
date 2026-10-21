@@ -1,8 +1,8 @@
 # Ranim Benali — AI, Data & Software Portfolio
 
 Welcome to my portfolio! 👋
-I'm **Ranim Benali**, a student passionate about **Artificial Intelligence, Data Science and Full-Stack development**.
-This profile showcases a selection of my academic projects — from deep learning on audio to MLOps pipelines and full-stack web apps. 🚀
+I'm **Ranim Benali**, a **Data Science graduate from ESPRIT**, passionate about **Artificial Intelligence, Data Science and Full-Stack development**.
+This profile showcases a selection of my projects — from deep learning on audio to MLOps pipelines and full-stack web apps. 🚀
 
 ---
 
@@ -48,7 +48,7 @@ A 2D game built in **C with SDL**: scrolling backgrounds, collision detection, m
 
 ## 🎓 About Me
 
-- 🎓 Student in **Business Information Systems** at **ISGT**, with a background in **Data Science** from **ESPRIT**
+- 🎓 **Graduated** in **Data Science** from **[ESPRIT](https://esprit.tn)** — *2026*
 - 🧠 Interested in **Deep Learning**, **Generative AI** and **MLOps**
 - 🏅 **NVIDIA** certified — *Anomaly Detection*
 - 💬 Fluent in **Arabic**, **French** and **English**
@@ -72,5 +72,5 @@ A 2D game built in **C with SDL**: scrolling backgrounds, collision detection, m
 
 ## 📫 Contact
 
-[![LinkedIn](https://www.linkedin.com/in/benaliranim/?isSelfProfile=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benaliranim/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ranim.benali02@gmail.com)
